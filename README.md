@@ -1,7 +1,7 @@
 Laboratório 4516 - Auditoria de Logs
 =============================
 
-Repositório para armazenar o Laboratório do curso de Auditoria de Logs da [4Linux][1]
+Repositório para armazenar o Laboratório do curso de Auditoria de Logs da [Digicontrol][1]
 
 Dependências
 ------------
