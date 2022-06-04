@@ -1,7 +1,7 @@
 server {
     listen 80;
 
-    server_name kibana.4labs.example;
+    server_name kibana.digicontrol.example;
 
     auth_basic "Acesso Restrito";
     auth_basic_user_file /etc/nginx/htpasswd.users;
