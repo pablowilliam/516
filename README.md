@@ -37,7 +37,7 @@ Criação do Laboratório
 Para criar o laboratório é necessário fazer o `git clone` desse repositório e, dentro da pasta baixada realizar a execução do `vagrant up`, conforme abaixo:
 
 ```bash
-git clone https://github.com/4linux/4516
+git clone https://github.com/pablowilliam/516
 cd 4516/
 vagrant up
 ```
@@ -63,7 +63,7 @@ Comandos                | Descrição
 
 > Para maiores informações acesse a [Documentação do Vagrant][8]
 
-[1]: https://4linux.com.br
+[1]: https://digicontrol.net
 [2]: https://git-scm.com/downloads
 [3]: https://www.virtualbox.org/wiki/Downloads
 [4]: https://www.vagrantup.com/downloads
