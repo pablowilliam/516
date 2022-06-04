@@ -11,7 +11,7 @@
       with_items:
         - 172.16.0.11 webserver wordpress.digicontrol.example chat.digicontrol.example
         - 172.16.0.12 graylog
-        - 172.16.0.13 kibana kibana.4digicontrollabs.example
+        - 172.16.0.13 kibana kibana.digicontrol.example
     
     - name: Criando diretorio /opt/filebeat
       synchronize:
